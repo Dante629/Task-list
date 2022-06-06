@@ -1,0 +1,9 @@
+body{
+background-image: url(24.jpg); 
+background-size: cover;
+}
+
+#ulTasks li.done{
+    color: '#f5facd';
+    text-decoration: line-through;
+}
